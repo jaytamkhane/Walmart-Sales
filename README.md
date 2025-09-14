@@ -15,7 +15,7 @@ This project focuses on analyzing **Walmart sales data** using **SQL and Python*
 ## Data Pipeline Workflow
 1️⃣ **Data Extraction** – Retrieved sales data from online sources.  
 2️⃣ **Data Cleaning & Preprocessing** – Removed inconsistencies using **Python & SQL**.  
-3️⃣ **Database Storage** – Loaded refined data into **MySQL/PostgreSQL** for structured querying.  
+3️⃣ **Database Storage** – Loaded refined data into **MySQ** for structured querying.  
 4️⃣ **Analysis** – Generated insights using **SQL queries and Python data processing**.  
 5️⃣ **Optimization** – Reduced query execution time by **40%** through indexing and efficient SQL joins.  
 
